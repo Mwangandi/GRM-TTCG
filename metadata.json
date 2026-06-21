@@ -1,0 +1,6 @@
+{
+  "name": "Taita Taveta GRM",
+  "description": "Centralized Grievance Redress Mechanism system for Taita Taveta County, adhering to the official framework protocols.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
